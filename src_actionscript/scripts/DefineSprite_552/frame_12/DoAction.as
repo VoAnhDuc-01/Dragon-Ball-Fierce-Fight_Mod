@@ -1,0 +1,2 @@
+stop();
+bufang = 1;

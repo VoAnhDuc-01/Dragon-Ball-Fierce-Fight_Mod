@@ -1,0 +1,36 @@
+function onEnterFrame()
+{
+   if(_parent.st != 1 && _parent._parent._parent.st != 1)
+   {
+      if(tiaosd > 3)
+      {
+         tiaosd -= 1;
+      }
+      else if(tiaosd > 0)
+      {
+         tiaosd -= 0.3;
+      }
+      else
+      {
+         tiaosd -= 1.1;
+      }
+      this._parent._parent._y -= tiaosd;
+      this._parent._parent.yz._y += tiaosd / 2;
+      this._parent._parent.yz._y += tiaosd;
+      if(tiaosd <= 0)
+      {
+         if(_parent._parent._y >= _parent._parent._parent.b1._y)
+         {
+            _parent._parent._y = _parent._parent._parent.b1._y;
+            this._parent._parent.yz._y = 0;
+            _parent.ren.gotoAndPlay("daodi");
+            gotoAndStop(1);
+            delete this.onEnterFrame;
+            _parent.gotoAndStop(1);
+         }
+      }
+   }
+}
+stop();
+tiaosd += _parent.gaosd;
+_parent.gaosd = 0;
