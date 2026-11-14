@@ -23,7 +23,7 @@ Bản mod giữ nguyên toàn bộ bộ kỹ năng (skill) gốc của nhân v�
 <s>Mình không làm trên bản game gốc vì không có file</s>
 
 
- <b> **Fun fact về game này cho các bạn ngày xưa chơi game này từng tự hỏi *"sao bấm mãi đ*o ra Kamehameha?!"* !** =))) <br> </b>
+ <b> **Fun fact về game này cho các bạn ngày xưa chơi game này từng tự hỏi *"sao bấm mãi đ * o ra Kamehameha?!"* !** =))) <br> </b>
 Nguyên nhân chiêu kamehameha trong bản game gốc rất khó ra: <br>
 Thời gian đệm phím combo (jishu1) gốc chỉ có 3.5 (tương đương ~7 frame, tức chỉ 0.23 giây =))). Nếu không bấm kịp trong 0.23s thì say no combo =)) <br>
  <b> NÊN  </b> <br>
