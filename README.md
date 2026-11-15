@@ -1,4 +1,6 @@
+Link: https://voanhduc-01.github.io/Dragon-Ball-Fierce-Fight_Mod/
 
+---
 Bạn có thể tự do chỉnh sửa thêm nội dung game thông qua file **`config.bat`**.
 
 * **Yêu cầu bắt buộc:** Máy tính cần cài đặt sẵn **FFDec (JPEXS Free Flash Decompiler)**.
